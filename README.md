@@ -4,7 +4,9 @@
 - Social Distancing Tracking
 - Wearing Mask Detection
 
-![Loading Video ....](https://github.com/YameenV/ocryolome/blob/master/yoloOcr.gif)
+# Demo
+Loading plz wait..
+![Loading Video ....](https://github.com/YameenV/AutoSurveillance/blob/main/media/demo.gif)
 
 # Inference Model
 I have used state-of-the-art Yolov7 to detect faces and whether the face has a mask or not. It also helps in detecting how far the pedestrian is from each other. Yolov7 has outperformed its previous version, models like Faster-Rcnn, SSD, and others when it comes to inference time based on various research papers. Thus it becomes an idea to use Yolov7 for the problem as it has to perform inference on the live feed. I would have used different models and broken the problem into a piece like detecting the pedestrian and then the face but that would have increased the inference time. Yolov7 was trained on more than 4000+ images and it has performed with a MAP scored of 0.97
