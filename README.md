@@ -4,9 +4,8 @@
 - Social Distancing Tracking
 - Wearing Mask Detection
 
-# Demo
+# Demo (CPU Only)
 Loading plz wait..
-Working on 4 Core CPU only
 ![Loading Video ....](https://github.com/YameenV/AutoSurveillance/blob/main/media/demo.gif)
 
 # Inference Model
